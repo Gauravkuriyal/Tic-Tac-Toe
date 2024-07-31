@@ -7,8 +7,6 @@
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [How to Play](#how-to-play)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
