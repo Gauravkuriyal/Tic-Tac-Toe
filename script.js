@@ -110,5 +110,9 @@ let boxes = document.querySelectorAll(".box");
                     count++;
                     player.innerHTML = "PLAYER " + (1 + count % 2);
                 }
+                if (count > 8) {
+                    winner.firstElementChild.innerHTML = "Draw";
+                    winner.style = "display : flex; animation-name : popdown;"
+                }
             })
         });
